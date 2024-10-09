@@ -112,6 +112,7 @@
                                 href=""><span
                                     style="text-shadow: 2px 2px rgb(0, 0, 0)">Content</span></a></button>
                         </a>
+                        <div></div>
                         </button>
                     </li>
                 </ul>
@@ -123,7 +124,9 @@
 
     <div class="container" style="margin-top: 135px">
         <div>
-            <marquee direction="left" scrollamount="5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique laudantium nemo debitis culpa excepturi, modi placeat exercitationem aspernatur minus delectus error sit iusto? Impedit possimus dolore perspiciatis eaque enim? Dolor!</marquee>
+            <marquee direction="left" scrollamount="5">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Similique laudantium nemo debitis culpa excepturi, modi placeat exercitationem aspernatur minus delectus
+                error sit iusto? Impedit possimus dolore perspiciatis eaque enim? Dolor!</marquee>
         </div>
         <!-- Full-width images with number text -->
         <div class="mySlides">
